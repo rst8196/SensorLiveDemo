@@ -1,0 +1,14 @@
+packages
+bin
+obj
+.vs
+CellsAnalysisTool/CellsAnalysisTool/AssemblyVersion.txt
+CellsAnalysisTool/CellsAnalysisTool/Properties/AssemblyInfo.cs
+CellsAnalysisTool/CellsAnalysisTool/doc/CELLSAnalysisTool.XML
+CellsAnalysisTool/CellsAnalysisTool.App/Properties/AssemblyInfo.cs
+Documentation/Help/Documentation.chm
+Documentation/Help/
+Installer/CELLSAnalysisToolInstaller/build/
+CellsAnalysisTool/CellsAnalysisTool/doc/
+Installer/CELLSAnalysisToolInstaller/ProductWizard.wxs
+Installer/CELLSAnalysisToolInstaller/Product.wxs
